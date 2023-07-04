@@ -27,7 +27,7 @@ const Index = () => {
             width={200}
             height={50}
           />
-          <div className='hidden sm:flex'>
+          <div className='hidden md:flex'>
             <ButtonLarge>Solicitar Orçamento</ButtonLarge>
           </div>
       </div>

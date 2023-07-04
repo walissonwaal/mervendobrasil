@@ -13,7 +13,7 @@ export default function index () {
               Representante Comercial
             </span>
           </h1>
-          <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
+          <p className='lg:w-2/3 mx-auto leading-relaxed text-base text-justify'>
             O <strong>Grupo BAMAQ</strong> possui mais de 40 anos de tradição,
             de sucesso e solidez. De origem mineira, as empresas do Grupo, estão
             presentes em dezesseis estados do país. O Grupo possui concessão da
